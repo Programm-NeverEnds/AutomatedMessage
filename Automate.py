@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 
-message="Em chestunavu??"
+message="What's Up!"
 
 
 while True:
