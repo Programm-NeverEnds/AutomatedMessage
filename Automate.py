@@ -1,5 +1,5 @@
 import pyautogui   
-import time
+import time;
 
 
 message="What's Up!"
